@@ -1,4 +1,4 @@
-# NetflixHelper
+# Netflix Helper
 This is my **first app created with Kotlin** for Android Slope -> Beginner exercise.
 
 It's an application that let a user choose a movie to watch on Netflix.
